@@ -1,0 +1,1095 @@
+1603877120941	geckodriver	INFO	Listening on 127.0.0.1:57788
+1603877123937	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileOjQC9y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603877133983	Marionette	INFO	Listening on port 57799
+1603877134135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603877140326	Marionette	INFO	Stopped listening on port 57799
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603877234020	geckodriver	INFO	Listening on 127.0.0.1:58002
+1603877237045	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilevNRvHb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603877245906	Marionette	INFO	Listening on port 58011
+1603877246011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603877252686	Marionette	INFO	Stopped listening on port 58011
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603877305434	geckodriver	INFO	Listening on 127.0.0.1:58167
+1603877308427	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileplT6Xi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603877314550	Marionette	INFO	Listening on port 58177
+1603877314659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603877319160	Marionette	INFO	Stopped listening on port 58177
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603878086844	geckodriver	INFO	Listening on 127.0.0.1:59125
+1603878089883	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilePqh50M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603878096051	Marionette	INFO	Listening on port 59137
+1603878096294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603878102905	Marionette	INFO	Stopped listening on port 59137
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603878140261	geckodriver	INFO	Listening on 127.0.0.1:59296
+1603878143301	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileIXQPxM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603878150545	Marionette	INFO	Listening on port 59307
+1603878150808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603878157132	Marionette	INFO	Stopped listening on port 59307
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603878457896	geckodriver	INFO	Listening on 127.0.0.1:59722
+1603878460917	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileo7WdZm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603878469590	Marionette	INFO	Listening on port 59734
+1603878470169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603878478194	Marionette	INFO	Stopped listening on port 59734
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603878710440	geckodriver	INFO	Listening on 127.0.0.1:60058
+1603878713421	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileDTYJTW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603878720524	Marionette	INFO	Listening on port 60070
+1603878720876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603878725874	Marionette	INFO	Stopped listening on port 60070
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603963976196	geckodriver	INFO	Listening on 127.0.0.1:56841
+1603963979183	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilelPFS65"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603963990250	Marionette	INFO	Listening on port 56854
+1603963990553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1603963996356	Marionette	INFO	Stopped listening on port 56854
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603964432736	geckodriver	INFO	Listening on 127.0.0.1:57489
+1603964435771	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileP4W1hS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603964442994	Marionette	INFO	Listening on port 57501
+1603964443271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603964447827	Marionette	INFO	Stopped listening on port 57501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603965665813	geckodriver	INFO	Listening on 127.0.0.1:59084
+1603965669201	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile4TbQKx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603965684761	Marionette	INFO	Listening on port 59103
+1603965685191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603965693770	Marionette	INFO	Stopped listening on port 59103
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603965726619	geckodriver	INFO	Listening on 127.0.0.1:59307
+1603965729564	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilexCTUkG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603965748315	Marionette	INFO	Listening on port 59318
+1603965748912	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1603965754971	Marionette	INFO	Stopped listening on port 59318
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603965910834	geckodriver	INFO	Listening on 127.0.0.1:59568
+1603965913869	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile7am7cL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603965920927	Marionette	INFO	Listening on port 59578
+1603965921252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603965926318	Marionette	INFO	Stopped listening on port 59578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603966279721	geckodriver	INFO	Listening on 127.0.0.1:60044
+1603966282993	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileq9bXnr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603966293308	Marionette	INFO	Listening on port 60055
+1603966293734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603966302984	Marionette	INFO	Stopped listening on port 60055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604045895161	geckodriver	INFO	Listening on 127.0.0.1:65391
+1604045898215	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofiletBXH4A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604045913840	Marionette	INFO	Listening on port 65402
+1604045914365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604045921987	Marionette	INFO	Stopped listening on port 65402
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+[Child 25188, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604046679711	geckodriver	INFO	Listening on 127.0.0.1:49877
+1604046682516	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile6S2qjm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604046695168	Marionette	INFO	Listening on port 49886
+1604046695696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604046706413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604046707877	Marionette	INFO	Stopped listening on port 49886
+1604046712929	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604046868508	geckodriver	INFO	Listening on 127.0.0.1:50262
+1604046871492	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileEdcJLw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604046882382	Marionette	INFO	Listening on port 50273
+1604046882762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604046890280	Marionette	INFO	Stopped listening on port 50273
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604046946648	geckodriver	INFO	Listening on 127.0.0.1:50448
+1604046949645	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileq7lvTU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604046962523	Marionette	INFO	Listening on port 50457
+1604046962586	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1604046973979	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604046974771	Marionette	INFO	Stopped listening on port 50457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604047151450	geckodriver	INFO	Listening on 127.0.0.1:50777
+1604047154455	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileBtBpkQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604047164091	Marionette	INFO	Listening on port 50792
+1604047164394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604047170875	Marionette	INFO	Stopped listening on port 50792
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604047763097	geckodriver	INFO	Listening on 127.0.0.1:51701
+1604047766130	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilevccTzd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604047774507	Marionette	INFO	Listening on port 51714
+1604047774582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604047780025	Marionette	INFO	Stopped listening on port 51714
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604048515399	geckodriver	INFO	Listening on 127.0.0.1:52957
+1604048518433	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile3JPmOn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604048527989	Marionette	INFO	Listening on port 52969
+1604048528335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604048534205	Marionette	INFO	Stopped listening on port 52969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604049193468	geckodriver	INFO	Listening on 127.0.0.1:53963
+1604049196556	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileMDKGpM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604049209099	Marionette	INFO	Listening on port 53976
+1604049209589	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1604049215266	Marionette	INFO	Stopped listening on port 53976
+[Child 24924, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604049675056	geckodriver	INFO	Listening on 127.0.0.1:54646
+1604049678049	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileEGBpxF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604049686712	Marionette	INFO	Listening on port 54660
+1604049687227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604049692281	Marionette	INFO	Stopped listening on port 54660
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604049941415	geckodriver	INFO	Listening on 127.0.0.1:55106
+1604049944434	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile16gmjU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604049957430	Marionette	INFO	Listening on port 55119
+1604049958171	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1604049966583	Marionette	INFO	Stopped listening on port 55119
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604306661829	geckodriver	INFO	Listening on 127.0.0.1:54809
+1604306664900	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilezy4sib"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604306674839	Marionette	INFO	Listening on port 54820
+1604306675419	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:951:24\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): can't access dead object from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: resource://devtools/client/responsive/browser/tunnel.js, line 573: TypeError: this.innerParentMM is null
+1604311413946	Marionette	INFO	Stopped listening on port 54820
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604307118533	Marionette	INFO	Listening on port 55283
+1604307118797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.5itest.cn/static-dist/libs/base.js?version=8.2.25, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604307591966	Marionette	INFO	Stopped listening on port 55283
+
+###!!! [Child][RunMessage] EJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604307599643	Marionette	INFO	Listening on port 55770
+1604307599820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604308073410	Marionette	INFO	Stopped listening on port 55770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+fileRcEw6d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604307985491	Marionette	INFO	Listening on port 56112
+1604307986066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.5itest.cn/static-dist/libs/base.js?version=8.2.25, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604308076129	Marionette	INFO	Stopped listening on port 56112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604309074727	geckodriver	INFO	Listening on 127.0.0.1:56965
+1604309077729	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile5inI5w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604309088452	Marionette	INFO	Listening on port 56974
+1604309088554	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: blocklists/plugins sync interrupted by shutdown
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+1604309597583	Marionette	INFO	Stopped listening on port 56974
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+09527628	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilez7xZgZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604309536411	Marionette	INFO	Listening on port 57394
+1604309536997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604309595961	Marionette	INFO	Stopped listening on port 57391604309596477	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilewK2kkE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604309605864	Marionette	INFO	Listening on port 57514
+1604309605920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604309695725	Marionette	INFO	Stopped listening on port 57514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file37ADKe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604309696110	Marionette	INFO	Listening on port 57643
+1604309696567	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604310048089	Marionette	INFO	Stopped listening on port 57643
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\\Local\\Temp\\rust_mozprofile10knGF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604309844130	Marionette	INFO	Listening on port 57810
+1604309844156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604310046150	Marionette	INFO	Stopped listening on port 57810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604391720741	geckodriver	INFO	Listening on 127.0.0.1:63720
+1604391723821	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileypDVcI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604391737764	Marionette	INFO	Listening on port 63731
+1604391738149	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604391744124	Marionette	ERROR	[24] No reply from Marionette:Register
+1604391744666	Marionette	INFO	Stopped listening on port 63731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604391845749	geckodriver	INFO	Listening on 127.0.0.1:63918
+1604391848738	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile9gUMc7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604391856224	Marionette	INFO	Listening on port 63929
+1604391856283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604391942586	Marionette	INFO	Stopped listening on port 63929
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileNSsk62"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604391941298	Marionette	INFO	Listening on port 64097
+1604391941336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604392072855	Marionette	INFO	Stopped listening on port 64097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+fileSZ1cgr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604392081190	Marionette	INFO	Listening on port 64378
+1604392081311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604395289739	Marionette	INFO	Stopped listening on port 64378
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilePJdWkG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604392199827	Marionette	INFO	Listening on port 64601
+1604392199982	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1604395291659	Marionette	INFO	Stopped listening on port 64601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+filehHqZ2X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604392793373	Marionette	INFO	Listening on port 65281
+1604392793561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604395292781	Marionette	INFO	Stopped listening on port 65281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604395896521	geckodriver	INFO	Listening on 127.0.0.1:56986
+1604395899625	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileThAu2l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604395912914	Marionette	INFO	Listening on port 56996
+1604395913047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604396018731	Marionette	INFO	Stopped listening on port 56996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604481941306	geckodriver	INFO	Listening on 127.0.0.1:61433
+1604481944479	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileKboWgo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604481960640	Marionette	INFO	Listening on port 61442
+1604481961120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1604482617882	Marionette	INFO	Stopped listening on port 61442
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file0J0UXu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604482047364	Marionette	INFO	Listening on port 61664
+1604482047462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604482613647	Marionette	INFO	Stopped listening on port 61664
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999450482	geckodriver	INFO	Listening on 127.0.0.1:54567
+1604999453426	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileyLNuBK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604999477774	Marionette	INFO	Listening on port 54576
+1604999478369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000833469	Marionette	INFO	Stopped listening on port 54576
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608549904227	geckodriver	INFO	Listening on 127.0.0.1:50353
+1608549907395	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileG4tPWj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608549917504	Marionette	INFO	Listening on port 50364
+1608549917675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1608549921758	Marionette	INFO	Stopped listening on port 50364
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x840001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608550444450	geckodriver	INFO	Listening on 127.0.0.1:51126
+1608550447446	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilezGzVmr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608550455504	Marionette	INFO	Listening on port 51137
+1608550456097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608550461497	Marionette	INFO	Stopped listening on port 51137
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608550831675	geckodriver	INFO	Listening on 127.0.0.1:51593
+1608550834664	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilerAGy78"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608550843497	Marionette	INFO	Listening on port 51603
+1608550843964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608550849158	Marionette	INFO	Stopped listening on port 51603
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608550960159	geckodriver	INFO	Listening on 127.0.0.1:51831
+1608550963251	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile5GQ193"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608550970921	Marionette	INFO	Listening on port 51840
+1608550971256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608550976593	Marionette	INFO	Stopped listening on port 51840
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1608550984311	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609814583259	geckodriver	INFO	Listening on 127.0.0.1:53745
+1609814586391	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileAv48sF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609814594590	Marionette	INFO	Listening on port 53758
+1609814595031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609814595397	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breac1609815398754	Marionette	INFO	Stopped listening on port 54015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+rupted by shutdown
+console.warn: services.settings: blocklists/plugins sy1609815396547	Marionette	INFO	Stopped listening on port 54183
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+king-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: pinning/pins sync interrupted by shutdown
+1609815397380	Marionette	INFO	Stopped listening on port 53758
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1]: Attempting to post to a invalid Compositor Loop
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2226: TypeEA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Z_CRASHREPORTER_SHUTDOWN is set, shutting down
+Marionette	INFO	Listening on port 54562
+1609815213839	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609815394485	Marionette	INFO	Stopped listening on port 54562
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+filewASw0m"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609815391794	Marionette	INFO	Listening on port 54815
+1609815392108	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x8A0001,name=PScriptCache::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800C8,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800C8,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1609815888664	Marionette	INFO	Stopped listening on port 54815
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615087553819	geckodriver	INFO	Listening on 127.0.0.1:60759
+1615087556893	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileA4w2Na"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615087571425	Marionette	INFO	Listening on port 60777
+1615087571721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615087586909	Marionette	INFO	Stopped listening on port 60777
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615088999790	geckodriver	INFO	Listening on 127.0.0.1:62670
+1615089002805	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile01Av2z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615089010675	Marionette	INFO	Listening on port 62682
+1615089010961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615089026641	Marionette	INFO	Stopped listening on port 62682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615089151686	geckodriver	INFO	Listening on 127.0.0.1:62872
+1615089154764	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileS6FTSe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615089162576	Marionette	INFO	Listening on port 62882
+1615089162758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615089181557	Marionette	INFO	Stopped listening on port 62882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615089259050	geckodriver	INFO	Listening on 127.0.0.1:63023
+1615089262048	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileKoKfEI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615089272460	Marionette	INFO	Listening on port 63034
+1615089273032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615089293397	Marionette	INFO	Stopped listening on port 63034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615102983265	geckodriver	INFO	Listening on 127.0.0.1:13514
+1615102986365	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileMHDMZ9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615102998150	Marionette	INFO	Listening on port 13527
+1615102998312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615103015711	Marionette	INFO	Stopped listening on port 13527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615103190948	geckodriver	INFO	Listening on 127.0.0.1:13819
+1615103193978	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileF2JSx9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615103200404	Marionette	INFO	Listening on port 13829
+1615103200993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1615103217748	Marionette	INFO	Stopped listening on port 13829
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615104474080	geckodriver	INFO	Listening on 127.0.0.1:15159
+1615104477083	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileTFWw9F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615104483854	Marionette	INFO	Listening on port 15173
+1615104484135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615104508554	Marionette	INFO	Stopped listening on port 15173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615205851609	geckodriver	INFO	Listening on 127.0.0.1:8758
+1615205854893	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilevwPh4a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615205870578	Marionette	INFO	Listening on port 8770
+1615205870639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615206813727	Marionette	INFO	Stopped listening on port 8770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615209866492	geckodriver	INFO	Listening on 127.0.0.1:14295
+1615209869542	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileCFaOXz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615209888803	Marionette	INFO	Listening on port 14305
+1615209888853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: http://www.5itest.cn/static-dist/libs/base.js?version=8.2.25, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: http://www.5itest.cn/static-dist/libs/base.js?version=8.2.25, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1615209999620	Marionette	INFO	Stopped listening on port 14305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+filenNq0Y7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615210006594	Marionette	INFO	Listening on port 14536
+1615210007163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615211227579	Marionette	INFO	Stopped listening on port 14536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+filemNtzQm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615210087495	Marionette	INFO	Listening on port 14694
+1615210087753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615210128220	Marionette	INFO	Stopped listening on port 14694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615259697500	geckodriver	INFO	Listening on 127.0.0.1:57241
+1615259700575	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile1VRR3O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615259713328	Marionette	INFO	Listening on port 57253
+1615259713829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615259729255	Marionette	INFO	Stopped listening on port 57253
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615259961427	geckodriver	INFO	Listening on 127.0.0.1:57504
+1615259964443	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilekneVha"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615259969951	Marionette	INFO	Listening on port 57515
+1615259970198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615259992398	Marionette	INFO	Stopped listening on port 57515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615260091044	geckodriver	INFO	Listening on 127.0.0.1:57663
+1615260094030	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileVTY5bK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615260099679	Marionette	INFO	Listening on port 57672
+1615260099781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615260112104	Marionette	INFO	Stopped listening on port 57672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615893640828	geckodriver	INFO	Listening on 127.0.0.1:29447
+1615893643883	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileu7ZRnd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615893658128	geckodriver	INFO	Listening on 127.0.0.1:29517
+1615893661150	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileDEmZla"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615893668649	Marionette	INFO	Listening on port 29527
+1615893669035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615894073946	Marionette	INFO	Stopped listening on port 29527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

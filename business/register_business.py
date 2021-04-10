@@ -3,8 +3,6 @@ __author__ = "longhao"
 __date__ = "2021.3.15"
 
 from handle.register_handle import RegisterHandle
-
-
 class RegisterBusiness(object):
     def __init__(self, driver):
         self.reg_handle = RegisterHandle(driver)

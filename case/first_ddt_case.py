@@ -13,6 +13,8 @@ import ddt
 from business.register_business import RegisterBusiness
 from utils.op_excel import OpExcel
 
+data = OpExcel().get_data
+
 
 @ddt.ddt
 class FirstDdtCase(unittest.TestCase):
@@ -40,6 +42,7 @@ class FirstDdtCase(unittest.TestCase):
         self.driver.close()
         print("*" * 25 + "分割线" + "*" * 25)
 
+    """
     @ddt.data(
         ["12a", "longhao", "123456", "captcha", "user_email_error", "请输入有效的电子邮件地址"],
         ["qq.com", "longhao1", "123456", "captcha", "user_email_error", "请输入有效的电子邮件地址"],
@@ -50,18 +53,21 @@ class FirstDdtCase(unittest.TestCase):
         ["1221312@qq.com", "longhao2", "123", "captcha", "password_error", "最少输入5个字符"],
         ["1221312@qq.com", "longhao2", "1234", "captcha", "password_error", "最少输入5个字符"],
         ["1221312@qq.com", "longhao2", "123456", "captcha", "password_error", "最少输入5个字符"]
-
-
     )
     @ddt.unpack
-    def test_register_case(self, email, username, password, captcha, error_element, error_msg):
+    """
+
+    @ddt.data(*data)
+    def test_register_case(self, data):
+        print(data)
+        email, username, password, captcha, error_element, error_msg = data
         email_error = self.reg_business.register_func(email, username, password, captcha, error_element, error_msg)
-        self.assertTrue(email_error, "测试失败")
+        self.assertFalse(email_error, "测试失败")
 
 
 if __name__ == "__main__":
     suit = unittest.TestLoader().loadTestsFromTestCase(FirstDdtCase)
-    fp = open('D://Python/HtmlTestRunner/Htmltestrunner/reports/firstddt_case.html', 'wb')
+    fp = open('D://Python/HtmlTestRunner/Htmltestrunner/reports/firstddt01_case.html', 'wb')
     runner = HTMLTestRunner(stream=fp, title='第一次测试报告', description='用例执行情况', verbosity=2)
     runner.run(suit)  # 执行测试用例
     fp.close()

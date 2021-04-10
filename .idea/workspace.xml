@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00297b1d-a494-4085-8e29-9c8c2fe72fd6" name="Default Changelist" comment="" />
+    <list default="true" id="00297b1d-a494-4085-8e29-9c8c2fe72fd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywords/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/register_email-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/register_email-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/register_nickname-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/register_nickname-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/register_password-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/register_password-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/test_register_case_1___12a____longhao____123456____captcha____user_email_error____请输入有效的电子邮件地址__.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/test_register_case_1___12a____longhao____123456____captcha____user_email_error____请输入有效的电子邮件地址__.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/test_register_case_2___qq_com____longhao1____123456____captcha____user_email_error____请输入有效的电子邮件地址__.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/test_register_case_2___qq_com____longhao1____123456____captcha____user_email_error____请输入有效的电子邮件地址__.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/test_register_case_7___1221312_qq_com____longhao2____123____captcha____password_error____最少输入5个字符__.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/test_register_case_7___1221312_qq_com____longhao2____123____captcha____password_error____最少输入5个字符__.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Png/test_register_case_8___1221312_qq_com____longhao2____1234____captcha____password_error____最少输入5个字符__.png" beforeDir="false" afterPath="$PROJECT_DIR$/Png/test_register_case_8___1221312_qq_com____longhao2____1234____captcha____password_error____最少输入5个字符__.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/register_business.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/register_business.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/data_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/data_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/first_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/first_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/first_ddt_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/first_ddt_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/case.xls" beforeDir="false" afterPath="$PROJECT_DIR$/config/case.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/first_case.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/first_case.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/op_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/op_excel.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:LH3028/SeleniumTest.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1jV20wGesnJbr5XEi78stxZVFwV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +51,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Ini" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/case/first_ddt_case.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/case/data_test.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -40,7 +70,49 @@
       <recent name="D:\Python\HtmlTestRunner\Htmltestrunner\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.first_case">
+  <component name="RunManager" selected="Python.register_business">
+    <configuration name="action_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Htmltestrunner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keywords" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keywords/action_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Htmltestrunner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/data_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="find_element" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Htmltestrunner" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +176,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="keyword_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Htmltestrunner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/keyword_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="op_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Htmltestrunner" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +239,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="register_business" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Htmltestrunner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/business" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/business/register_business.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="unittest" type="PythonConfigurationType" factoryName="Python">
       <module name="Htmltestrunner" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,16 +281,46 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="user_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Htmltestrunner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/user_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.data_test" />
       <item itemvalue="Python.find_element" />
       <item itemvalue="Python.first_case" />
       <item itemvalue="Python.first_ddt_case" />
-      <item itemvalue="Python.op_excel" />
       <item itemvalue="Python.read_ini (1)" />
       <item itemvalue="Python.unittest" />
+      <item itemvalue="Python.op_excel" />
+      <item itemvalue="Python.keyword_case" />
+      <item itemvalue="Python.action_method" />
+      <item itemvalue="Python.user_log" />
+      <item itemvalue="Python.register_business" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.register_business" />
+        <item itemvalue="Python.user_log" />
+        <item itemvalue="Python.keyword_case" />
+        <item itemvalue="Python.action_method" />
         <item itemvalue="Python.op_excel" />
       </list>
     </recent_temporary>
@@ -194,54 +338,75 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="86" width="1092" height="642" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617008688299">
+    <state x="3" y="86" width="1092" height="642" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617694581185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="86" width="1092" height="642" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1617008688299" />
+    <state x="3" y="86" width="1092" height="642" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1617694581185" />
     <state x="400" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616500208716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616500208716" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1617008221296">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1617867268245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-1269" y="-140" key="FileChooserDialogImpl/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1609235534346" />
-    <state x="-1269" y="-149" key="FileChooserDialogImpl/0.0.1366.728/-1920.-323.1920.1040@-1920.-323.1920.1040" timestamp="1609143155463" />
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617008221296" />
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1617021668585">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617867268245" />
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1618023142712">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1138" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1609239479358" />
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617021668585" />
-    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1617021668585">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618023142712" />
+    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1618023142711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1138" height="141" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1609239479357" />
-    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617021668585" />
-    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1617021668585">
+    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618023142711" />
+    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1618023142710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1138" height="141" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1609239479357" />
-    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617021668585" />
-    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1617021668585">
+    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618023142710" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1618023142711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1138" height="141" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1609239479358" />
-    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617021668585" />
-    <state x="42" y="0" key="SettingsEditor" timestamp="1615893061457">
+    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618023142711" />
+    <state width="634" height="232" key="GridCell.Tab.1.bottom" timestamp="1617969202981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="42" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615893061457" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1617583141827">
+    <state width="634" height="232" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617969202981" />
+    <state width="634" height="232" key="GridCell.Tab.1.center" timestamp="1617969202981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1609230204254" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-323.1920.1040@-1920.-323.1920.1040" timestamp="1609142746205" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617583141827" />
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1616501238128">
+    <state width="634" height="232" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1617969202981" />
+    <state width="634" height="232" key="GridCell.Tab.1.left" timestamp="1617969202981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1616501238128" />
+    <state width="634" height="232" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1617969202981" />
+    <state width="634" height="232" key="GridCell.Tab.1.right" timestamp="1617969202981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="634" height="232" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1617969202981" />
+    <state x="269" y="20" width="998" height="708" key="SettingsEditor" timestamp="1617952182428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="269" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617952182428" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1618023071460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1618023071460" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1617949302231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617949302231" />
   </component>
 </project>

@@ -1,0 +1,78 @@
+1617675019434	geckodriver	INFO	Listening on 127.0.0.1:11046
+1617675022615	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileLiE18u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617675040235	Marionette	INFO	Listening on port 11056
+1617675040577	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617675053817	Marionette	ERROR	[24] No reply from Marionette:Register
+1617675054697	Marionette	INFO	Stopped listening on port 11056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617675057650	geckodriver	INFO	Listening on 127.0.0.1:11133
+1617675060681	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileVnke11"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617675069302	Marionette	INFO	Listening on port 11145
+1617675069933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617675086924	Marionette	INFO	Stopped listening on port 11145
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617675091206	geckodriver	INFO	Listening on 127.0.0.1:11227
+1617675094268	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileOOTIpS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617675102742	Marionette	INFO	Listening on port 11238
+1617675102903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617675117157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1617675118421	Marionette	INFO	Stopped listening on port 11238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617675121969	geckodriver	INFO	Listening on 127.0.0.1:11303
+1617675125097	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilefo3Y91"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617675141602	Marionette	INFO	Listening on port 11314
+1617675141665	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2205,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2205","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:915","resource:///modules/ContentCrashHandlers.jsm:observe:151"]}] Barrier: quit-application-granted
+1617675183105	Marionette	ERROR	[24] No reply from Marionette:Register
+1617675188534	Marionette	INFO	Stopped listening on port 11314
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5267: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1617675215811	geckodriver	INFO	Listening on 127.0.0.1:11508
+1617675218862	mozrunner::runner	INFO	Running command: "F:\\APPinstall\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileX12Yt9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617675243415	Marionette	INFO	Listening on port 11519
+1617675243462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617675262154	Marionette	INFO	Stopped listening on port 11519
+1617675272026	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5267: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down

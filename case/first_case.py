@@ -2,17 +2,20 @@
 __author__ = "longhao"
 __date__ = "2021.3.15"
 
-from notebook.jstest import report
 
 from business.register_business import RegisterBusiness
 from selenium import webdriver
 import unittest
 import warnings
 from TestRunner.HTMLTestRunner import HTMLTestRunner
-from TestRunner import SMTP
 from time import sleep
 import time
 import os, sys
+from log.user_log import UserLog
+log = UserLog().get_log()
+user_log = UserLog()
+sys.path.append("D:\\Python\\HtmlTestRunner\\Htmltestrunner\\business")
+print(sys.path)
 
 
 class FirstCase(unittest.TestCase):
@@ -20,13 +23,20 @@ class FirstCase(unittest.TestCase):
     def setUpClass(cls):
         dir = os.path.dirname(os.getcwd())
         cls.filename = os.path.join(dir, "Png")+"/test.png"
+        cls.log = UserLog().get_log()
+        cls.user_log = UserLog()
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.user_log.close_handle()
+
 
     def setUp(self):
         warnings.simplefilter("ignore", ResourceWarning)
         self.driver = webdriver.Chrome()
         self.driver.get("http://www.5itest.cn/register")
         sleep(3)
-        #self.driver.maximize_window()
+        self.log.debug("this is google browser")
         self.reg_business = RegisterBusiness(self.driver)
 
     def tearDown(self):
@@ -66,6 +76,7 @@ class FirstCase(unittest.TestCase):
         else:
             print("注册失败，此条用例执行成功")
 
+
     def test_register_captcha_error(self):
         captcha_error = self.reg_business.register_captcha_error("xxx", "longhao", "123456", self.filename)
         #self.assertFalse(captcha_error, "注册失败，此条用例执行成功")
@@ -98,9 +109,8 @@ if __name__ == "__main__":
     suit.addTest(FirstCase("test_register_password_error"))
     suit.addTest(FirstCase("test_register_captcha_error"))
     suit.addTest(FirstCase("test_register_success"))
+
     fp = open('D://Python/HtmlTestRunner/Htmltestrunner/reports/first_case.html', 'wb')
     runner = HTMLTestRunner(stream=fp, title='第一次测试报告', description='用例执行情况', verbosity=2)
     runner.run(suit)  # 执行测试用例
-    smtp = SMTP(user="24911068887@qq.com", password="LH4830328051716", host="mail.qq.com")
-    smtp.sender(to="2729029598@qq.com", attachments = report)
     fp.close()
